@@ -1,5 +1,5 @@
 # EX No.5.1.DESIGN THE 3D MODEL AS PROVIDED AND CONVERT TO ORTHOGRAPHIC VIEW
-## DATE: 10.12.2024
+## DATE: 09.12.2024
 
 ## AIM: 
 To create orthographic view of given 3D model
@@ -36,7 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Tailstock Workshop 5](https://github.com/user-attachments/assets/ebc6eb4c-3c36-480c-a8f4-45a7fb08a471)
+![5 1 Drawing ](https://github.com/user-attachments/assets/cd80e669-769a-4fda-871a-d4b095bbe182)
 
 
 
